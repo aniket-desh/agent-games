@@ -1,0 +1,2 @@
+estimate (projection, pre-sharing): {'projection': True, 'blocks': 32, 'branches': 128, 'calls_upper': 428032, 'tokens_per_call': {'input': 308.6876599066218, 'output': 31.25914268368483}, 'usd_upper': 19.9, 'minutes_at_rate_limit': 14.3}; session spend so far $12.87, this run may spend $25.00
+exit 137

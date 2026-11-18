@@ -1,0 +1,19 @@
+{
+ "blocks_done": 128,
+ "branches_written": 576,
+ "branches_skipped": 0,
+ "fresh_calls": 38943,
+ "shared": 13452,
+ "resumed": 39,
+ "elapsed_s": 206.7,
+ "budget_stopped": false,
+ "spend": {
+  "model": "gpt-6-luna",
+  "calls": 38936,
+  "usd": 1.4572,
+  "input_tokens": 9955231,
+  "output_tokens": 923302,
+  "cached_tokens": 0
+ },
+ "failed_attempts": 0
+}

@@ -1,0 +1,110 @@
+{
+ "source": "live",
+ "model_requested": "gpt-6-luna",
+ "time": "2026-11-18T02:35:51",
+ "single": [
+  {
+   "event": "report_empty",
+   "valid": true,
+   "error": null,
+   "country": "France",
+   "reason": "The visible crop is solid blue, consistent with the blue portion of the French tricolor flag.",
+   "usage": {
+    "input_tokens": 197,
+    "output_tokens": 35,
+    "cached_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "returned_model": "gpt-6-luna",
+   "latency_s": 2.112
+  },
+  {
+   "event": "report_mem8",
+   "valid": true,
+   "error": null,
+   "country": "France",
+   "reason": "The crop is a solid blue field, which is consistent with a close-up of the blue stripe on France\u2019s flag.",
+   "usage": {
+    "input_tokens": 308,
+    "output_tokens": 40,
+    "cached_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "returned_model": "gpt-6-luna",
+   "latency_s": 1.393
+  },
+  {
+   "event": "readout_mem8",
+   "valid": true,
+   "error": null,
+   "country": "France",
+   "reason": null,
+   "usage": {
+    "input_tokens": 295,
+    "output_tokens": 13,
+    "cached_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "returned_model": "gpt-6-luna",
+   "latency_s": 1.375
+  },
+  {
+   "event": "fullflag",
+   "valid": true,
+   "error": null,
+   "country": "France",
+   "reason": null,
+   "usage": {
+    "input_tokens": 456,
+    "output_tokens": 13,
+    "cached_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "returned_model": "gpt-6-luna",
+   "latency_s": 1.274
+  }
+ ],
+ "parallel": {
+  "n": 32,
+  "wall_s": 1.6,
+  "valid": 32,
+  "errors": [],
+  "mean_latency_s": 1.2494375,
+  "mean_input_tokens": 308.0,
+  "mean_output_tokens": 36.0625,
+  "france_share": 1.0
+ },
+ "ratelimit_headers": {
+  "x-ratelimit-limit-input-images": "50000",
+  "x-ratelimit-limit-requests": "30000",
+  "x-ratelimit-limit-tokens": "180000000",
+  "x-ratelimit-remaining-input-images": "49999",
+  "x-ratelimit-remaining-requests": "29999",
+  "x-ratelimit-remaining-tokens": "180000000",
+  "x-ratelimit-reset-input-images": "1ms",
+  "x-ratelimit-reset-requests": "2ms",
+  "x-ratelimit-reset-tokens": "0s"
+ },
+ "failed_attempts": 0,
+ "spend": {
+  "model": "gpt-6-luna",
+  "calls": 36,
+  "usd": 0.0017,
+  "input_tokens": 11112,
+  "output_tokens": 1255,
+  "cached_tokens": 0
+ },
+ "elapsed_s": 7.8,
+ "upstream": {
+  "upstream_repo": "https://github.com/lizardp1/flag_game",
+  "upstream_commit": "546badfdb84440ec455d1a951e207b5357619e2f",
+  "upstream_commit_expected": "546badfdb84440ec455d1a951e207b5357619e2f",
+  "upstream_local_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "upstream_local_diff_empty": true,
+  "prompt_hashes": {
+   "system": "de3dc705785a54008c56ca2c6ad6168fa71eade8acbe8cc741dac9e33b936f53",
+   "report_m3_empty": "65f4a5e9ccc5c551528efda788aa69b530219b8f1719524b11c33f3cebe56c5d",
+   "report_m1_empty": "2f543079b4e9aafbce6c6f9292c03275df30bc8e4da772f7dd33877f9e4e7a36"
+  }
+ }
+}

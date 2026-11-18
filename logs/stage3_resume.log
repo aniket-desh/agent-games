@@ -1,0 +1,53 @@
+estimate (projection, pre-sharing): {'projection': True, 'blocks': 32, 'branches': 128, 'calls_upper': 428032, 'tokens_per_call': {'input': 329.7361915690649, 'output': 33.1395718738439}, 'usd_upper': 21.21, 'minutes_at_rate_limit': 14.3}; session spend so far $44.73, this run may spend $10.00
+[     48s] block 1 s3:Yemen>Austria|clamped_rare|N16|b004 fresh=598 shared=0 resumed=11098 spend=$0.593
+[     70s] block 2 s3:France>Peru|clamped_rare|N16|b000 fresh=1016 shared=0 resumed=10688 spend=$0.932
+[     74s] block 3 s3:Italy>Ireland|clamped_rare|N16|b011 fresh=1101 shared=0 resumed=10719 spend=$0.998
+[     81s] block 4 s3:Ireland>Italy|clamped_rare|N16|b008 fresh=1000 shared=0 resumed=10744 spend=$1.076
+[     85s] block 5 s3:Peru>France|clamped_rare|N16|b003 fresh=1269 shared=0 resumed=10447 spend=$1.122
+[     88s] block 6 s3:Austria>Yemen|clamped_rare|N16|b007 fresh=1284 shared=0 resumed=10380 spend=$1.146
+[     89s] block 7 s3:Italy>Ireland|clamped_rare|N16|b010 fresh=1052 shared=0 resumed=10564 spend=$1.150
+[     91s] block 8 s3:France>Peru|clamped_rare|N16|b001 fresh=1317 shared=0 resumed=10451 spend=$1.163
+[     91s] block 9 s3:Yemen>Austria|clamped_rare|N16|b005 fresh=1318 shared=0 resumed=10294 spend=$1.163
+[     91s] block 10 s3:Netherlands>Luxembourg|clamped_rare|N16|b012 fresh=1341 shared=0 resumed=10243 spend=$1.168
+[     98s] block 11 s3:Austria>Yemen|clamped_rare|N16|b006 fresh=1419 shared=0 resumed=10337 spend=$1.238
+[    103s] block 12 s3:Netherlands>Luxembourg|clamped_rare|N16|b013 fresh=1522 shared=0 resumed=10274 spend=$1.307
+[    108s] block 13 s3:Peru>France|clamped_rare|N16|b002 fresh=1475 shared=0 resumed=10209 spend=$1.368
+[    109s] block 14 s3:Luxembourg>Netherlands|clamped_rare|N16|b015 fresh=1496 shared=0 resumed=10180 spend=$1.378
+[    113s] block 15 s3:Ireland>Italy|clamped_rare|N16|b009 fresh=1529 shared=0 resumed=10247 spend=$1.438
+[    118s] block 16 s3:France>Peru|clamped_rare|N16|b016 fresh=978 shared=0 resumed=10618 spend=$1.498
+[    148s] block 17 s3:Luxembourg>Netherlands|clamped_rare|N16|b014 fresh=1844 shared=0 resumed=9908 spend=$1.930
+[    158s] block 18 s3:Peru>France|clamped_rare|N16|b018 fresh=1012 shared=0 resumed=10696 spend=$2.069
+[    160s] block 19 s3:Yemen>Austria|clamped_rare|N16|b021 fresh=883 shared=0 resumed=10653 spend=$2.112
+[    165s] block 20 s3:France>Peru|clamped_rare|N16|b017 fresh=1240 shared=0 resumed=10524 spend=$2.186
+[    171s] block 21 s3:Austria>Yemen|clamped_rare|N16|b022 fresh=1369 shared=0 resumed=10463 spend=$2.242
+[    171s] block 22 s3:Peru>France|clamped_rare|N16|b019 fresh=1304 shared=0 resumed=10432 spend=$2.246
+[    174s] block 23 s3:Italy>Ireland|clamped_rare|N16|b027 fresh=1260 shared=0 resumed=10432 spend=$2.274
+[    175s] block 24 s3:Austria>Yemen|clamped_rare|N16|b023 fresh=1386 shared=0 resumed=10238 spend=$2.285
+[    176s] block 25 s3:Luxembourg>Netherlands|clamped_rare|N16|b031 fresh=1171 shared=0 resumed=10389 spend=$2.291
+[    176s] block 26 s3:Netherlands>Luxembourg|clamped_rare|N16|b029 fresh=1300 shared=0 resumed=10388 spend=$2.293
+[    187s] block 27 s3:Ireland>Italy|clamped_rare|N16|b024 fresh=1484 shared=0 resumed=10176 spend=$2.344
+[    187s] block 28 s3:Italy>Ireland|clamped_rare|N16|b026 fresh=1332 shared=0 resumed=10372 spend=$2.347
+[    189s] block 29 s3:Yemen>Austria|clamped_rare|N16|b020 fresh=1877 shared=0 resumed=9851 spend=$2.353
+[    196s] block 30 s3:Ireland>Italy|clamped_rare|N16|b025 fresh=1789 shared=0 resumed=9943 spend=$2.370
+[    198s] block 31 s3:Luxembourg>Netherlands|clamped_rare|N16|b030 fresh=1552 shared=0 resumed=10212 spend=$2.373
+[    203s] block 32 s3:Netherlands>Luxembourg|clamped_rare|N16|b028 fresh=1823 shared=0 resumed=9953 spend=$2.374
+{
+ "blocks_done": 32,
+ "branches_written": 128,
+ "branches_skipped": 0,
+ "fresh_calls": 42341,
+ "shared": 0,
+ "resumed": 332123,
+ "elapsed_s": 202.7,
+ "budget_stopped": false,
+ "spend": {
+  "model": "gpt-6-luna",
+  "calls": 42330,
+  "usd": 2.374,
+  "input_tokens": 15974157,
+  "output_tokens": 1553103,
+  "cached_tokens": 0
+ },
+ "failed_attempts": 0
+}
+exit 0

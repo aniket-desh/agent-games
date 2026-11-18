@@ -1,0 +1,1065 @@
+{
+ "source": "live",
+ "model": "gpt-6-luna",
+ "draws": 16,
+ "spend": {
+  "model": "gpt-6-luna",
+  "calls": 1504,
+  "usd": 0.0565,
+  "input_tokens": 297536,
+  "output_tokens": 53572,
+  "cached_tokens": 0
+ },
+ "rates": {
+  "France>Peru": {
+   "306e53d0cbeccfceeccb2dcd85f56568808d1dc6ed56c96381f9fe9d8ba4d9b1": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 39
+   },
+   "4da256bba98d3a8a03bd70d2447f3cece89ea8c50fcd482ef24dc8c3e094fd2d": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "8b4e4faf217582599618bf4f177fe3374cc99583188d628354f9330baeb215a3": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "b526ec6d3d3db1499722d505cfd9191d9325c286d3912a837621058f18d66b61": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "5507512fa8067d70879abf10a538ac30ed0c7b3db3b4862b2956ab442dd247f2": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "88d183f25be3bdfa30f9bdad0a9a40c611148130b5bb21db918ab8a3b9c0abb4": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "22d5c5d85911a64d20f27d86bba025ce84a01abe79b04dbded0cd64c0f1e3b3a": {
+    "p_truth": 0.9375,
+    "n": 16,
+    "wilson": [
+     0.7167073163197013,
+     0.9888809426916687
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.875,
+    "multiplicity": 39
+   },
+   "6888c90cae662a557447539e63d2de4d771ead3577cc34ace6e9e2642b5543b5": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "34eaa804e27587d11b0e2c57d46f573980b2b0b6a54208367aa59457f2dc431b": {
+    "p_truth": 0.8125,
+    "n": 16,
+    "wilson": [
+     0.5699064013154177,
+     0.9340852122641324
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.625,
+    "multiplicity": 13
+   },
+   "69577407209ed30bbe2752bb82a2ad8bff968765858aac26424c1db34227c9da": {
+    "p_truth": 0.8125,
+    "n": 16,
+    "wilson": [
+     0.5699064013154177,
+     0.9340852122641324
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.75,
+    "multiplicity": 13
+   },
+   "4eb2a77f37f6cc7ded739f4f4eabe59dd101700a964aa81d18324715e8d72725": {
+    "p_truth": 0.75,
+    "n": 16,
+    "wilson": [
+     0.5050123107060135,
+     0.8981809801576265
+    ],
+    "p_order0": 0.625,
+    "p_order1": 0.875,
+    "multiplicity": 13
+   },
+   "db959a25a348549fabe80a9067b2fd165f91d92ea30ea2a0502b9fb891c61916": {
+    "p_truth": 0.5625,
+    "n": 16,
+    "wilson": [
+     0.33178195606776517,
+     0.7690163666481448
+    ],
+    "p_order0": 0.375,
+    "p_order1": 0.75,
+    "multiplicity": 13
+   },
+   "235be666a6b3f21e750af911da29c491d7fde9f3f16d91784f6283d0e1cb81b9": {
+    "p_truth": 0.875,
+    "n": 16,
+    "wilson": [
+     0.6397666856325173,
+     0.9650232506629428
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.75,
+    "multiplicity": 39
+   }
+  },
+  "Peru>France": {
+   "235be666a6b3f21e750af911da29c491d7fde9f3f16d91784f6283d0e1cb81b9": {
+    "p_truth": 0.6875,
+    "n": 16,
+    "wilson": [
+     0.4440393186673406,
+     0.8583556494803894
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.625,
+    "multiplicity": 78
+   },
+   "2bb971f3d91fec094187e66ab5b40fbd83cb191b60c58f97835ad385aa2a3588": {
+    "p_truth": 0.375,
+    "n": 16,
+    "wilson": [
+     0.18480982554752806,
+     0.613593529020652
+    ],
+    "p_order0": 0.25,
+    "p_order1": 0.5,
+    "multiplicity": 13
+   },
+   "f22ec927dfb8070ba52c1ea4bf287cdfb03cc99b64cb77e75c79b45546fd1812": {
+    "p_truth": 0.625,
+    "n": 16,
+    "wilson": [
+     0.3864064709793481,
+     0.815190174452472
+    ],
+    "p_order0": 0.375,
+    "p_order1": 0.875,
+    "multiplicity": 13
+   },
+   "e889a49089014ddd074a29dc438197daff63d72f9080f5b59668b0cc83f59de6": {
+    "p_truth": 0.1875,
+    "n": 16,
+    "wilson": [
+     0.06591478773586765,
+     0.4300935986845823
+    ],
+    "p_order0": 0.25,
+    "p_order1": 0.125,
+    "multiplicity": 13
+   },
+   "b67f29f7b56361f5884448610cfc2a62c6271724edad432aba444d1b6383770e": {
+    "p_truth": 0.375,
+    "n": 16,
+    "wilson": [
+     0.18480982554752806,
+     0.613593529020652
+    ],
+    "p_order0": 0.625,
+    "p_order1": 0.125,
+    "multiplicity": 13
+   },
+   "ee26828fac55b4b9a3943c793ec569c130dad8849efd9ad85d047cae99feff5d": {
+    "p_truth": 0.25,
+    "n": 16,
+    "wilson": [
+     0.10181901984237346,
+     0.49498768929398645
+    ],
+    "p_order0": 0.5,
+    "p_order1": 0.0,
+    "multiplicity": 13
+   },
+   "22d5c5d85911a64d20f27d86bba025ce84a01abe79b04dbded0cd64c0f1e3b3a": {
+    "p_truth": 0.0625,
+    "n": 16,
+    "wilson": [
+     0.01111905730833121,
+     0.2832926836802987
+    ],
+    "p_order0": 0.125,
+    "p_order1": 0.0,
+    "multiplicity": 39
+   },
+   "6888c90cae662a557447539e63d2de4d771ead3577cc34ace6e9e2642b5543b5": {
+    "p_truth": 0.125,
+    "n": 16,
+    "wilson": [
+     0.034976749337057134,
+     0.3602333143674828
+    ],
+    "p_order0": 0.0,
+    "p_order1": 0.25,
+    "multiplicity": 13
+   },
+   "34eaa804e27587d11b0e2c57d46f573980b2b0b6a54208367aa59457f2dc431b": {
+    "p_truth": 0.125,
+    "n": 16,
+    "wilson": [
+     0.034976749337057134,
+     0.3602333143674828
+    ],
+    "p_order0": 0.0,
+    "p_order1": 0.25,
+    "multiplicity": 13
+   },
+   "69577407209ed30bbe2752bb82a2ad8bff968765858aac26424c1db34227c9da": {
+    "p_truth": 0.125,
+    "n": 16,
+    "wilson": [
+     0.034976749337057134,
+     0.3602333143674828
+    ],
+    "p_order0": 0.25,
+    "p_order1": 0.0,
+    "multiplicity": 13
+   },
+   "4eb2a77f37f6cc7ded739f4f4eabe59dd101700a964aa81d18324715e8d72725": {
+    "p_truth": 0.25,
+    "n": 16,
+    "wilson": [
+     0.10181901984237346,
+     0.49498768929398645
+    ],
+    "p_order0": 0.125,
+    "p_order1": 0.375,
+    "multiplicity": 13
+   },
+   "db959a25a348549fabe80a9067b2fd165f91d92ea30ea2a0502b9fb891c61916": {
+    "p_truth": 0.625,
+    "n": 16,
+    "wilson": [
+     0.3864064709793481,
+     0.815190174452472
+    ],
+    "p_order0": 0.625,
+    "p_order1": 0.625,
+    "multiplicity": 13
+   }
+  },
+  "Yemen>Austria": {
+   "235be666a6b3f21e750af911da29c491d7fde9f3f16d91784f6283d0e1cb81b9": {
+    "p_truth": 0.4375,
+    "n": 16,
+    "wilson": [
+     0.2309836333518552,
+     0.6682180439322347
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.0,
+    "multiplicity": 38
+   },
+   "bae8d26017edb120d456f357a6f9638dc20144d056e2e3a443f2e7bfa95fe66f": {
+    "p_truth": 0.8125,
+    "n": 16,
+    "wilson": [
+     0.5699064013154177,
+     0.9340852122641324
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.75,
+    "multiplicity": 19
+   },
+   "fac4b400f346a877002fb072f9e941ef97c383280ff7263e8bcd20d1e3df9f23": {
+    "p_truth": 0.375,
+    "n": 16,
+    "wilson": [
+     0.18480982554752806,
+     0.613593529020652
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.0,
+    "multiplicity": 19
+   },
+   "90ea2f83e24887bbe82cd7ad0e12c44193340b780ae66ae443e53d7fba8be9d2": {
+    "p_truth": 0.25,
+    "n": 16,
+    "wilson": [
+     0.10181901984237346,
+     0.49498768929398645
+    ],
+    "p_order0": 0.25,
+    "p_order1": 0.25,
+    "multiplicity": 19
+   },
+   "abcca11a787f6d507f8995d706d7b226a53f6994387c69bff83ba449e8243eba": {
+    "p_truth": 0.25,
+    "n": 16,
+    "wilson": [
+     0.10181901984237346,
+     0.49498768929398645
+    ],
+    "p_order0": 0.5,
+    "p_order1": 0.0,
+    "multiplicity": 19
+   },
+   "22d5c5d85911a64d20f27d86bba025ce84a01abe79b04dbded0cd64c0f1e3b3a": {
+    "p_truth": 0.3125,
+    "n": 16,
+    "wilson": [
+     0.14164435051961052,
+     0.5559606813326594
+    ],
+    "p_order0": 0.5,
+    "p_order1": 0.125,
+    "multiplicity": 19
+   },
+   "6990e3c88534868320184d85c032c44cbb6697829e285429b695523b96ef64bf": {
+    "p_truth": 0.5625,
+    "n": 16,
+    "wilson": [
+     0.33178195606776517,
+     0.7690163666481448
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.25,
+    "multiplicity": 19
+   },
+   "20747def2ed61faababd7d28ddd2a78b77622df858e26a4d8f6f79b4baa7378a": {
+    "p_truth": 0.1875,
+    "n": 16,
+    "wilson": [
+     0.06591478773586765,
+     0.4300935986845823
+    ],
+    "p_order0": 0.25,
+    "p_order1": 0.125,
+    "multiplicity": 19
+   },
+   "6c8cabdbdba6fd1067d3c494bc01b8a944e2d22fda1609aa5b23a126dd57d7cc": {
+    "p_truth": 0.5,
+    "n": 16,
+    "wilson": [
+     0.2799923761135083,
+     0.7200076238864916
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.125,
+    "multiplicity": 19
+   },
+   "7e68e0e31d7dccda2ecfe371bdceb1b7f3f95ae4de234de93ec449b0563f8aa1": {
+    "p_truth": 0.5,
+    "n": 16,
+    "wilson": [
+     0.2799923761135083,
+     0.7200076238864916
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.25,
+    "multiplicity": 19
+   },
+   "4c2660649a7780c86f542776b216a91c93beeb588414f107303097947067ccc0": {
+    "p_truth": 0.5,
+    "n": 16,
+    "wilson": [
+     0.2799923761135083,
+     0.7200076238864916
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.25,
+    "multiplicity": 38
+   }
+  },
+  "Austria>Yemen": {
+   "235be666a6b3f21e750af911da29c491d7fde9f3f16d91784f6283d0e1cb81b9": {
+    "p_truth": 0.4375,
+    "n": 16,
+    "wilson": [
+     0.2309836333518552,
+     0.6682180439322347
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.125,
+    "multiplicity": 76
+   },
+   "bae8d26017edb120d456f357a6f9638dc20144d056e2e3a443f2e7bfa95fe66f": {
+    "p_truth": 0.5,
+    "n": 16,
+    "wilson": [
+     0.2799923761135083,
+     0.7200076238864916
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.25,
+    "multiplicity": 19
+   },
+   "fac4b400f346a877002fb072f9e941ef97c383280ff7263e8bcd20d1e3df9f23": {
+    "p_truth": 0.5,
+    "n": 16,
+    "wilson": [
+     0.2799923761135083,
+     0.7200076238864916
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.125,
+    "multiplicity": 19
+   },
+   "90ea2f83e24887bbe82cd7ad0e12c44193340b780ae66ae443e53d7fba8be9d2": {
+    "p_truth": 0.8125,
+    "n": 16,
+    "wilson": [
+     0.5699064013154177,
+     0.9340852122641324
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.75,
+    "multiplicity": 19
+   },
+   "abcca11a787f6d507f8995d706d7b226a53f6994387c69bff83ba449e8243eba": {
+    "p_truth": 0.875,
+    "n": 16,
+    "wilson": [
+     0.6397666856325173,
+     0.9650232506629428
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.75,
+    "multiplicity": 19
+   },
+   "22d5c5d85911a64d20f27d86bba025ce84a01abe79b04dbded0cd64c0f1e3b3a": {
+    "p_truth": 0.75,
+    "n": 16,
+    "wilson": [
+     0.5050123107060135,
+     0.8981809801576265
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.625,
+    "multiplicity": 19
+   },
+   "5f2b92a3949389e3dab7f8e3fc8f5f98732a7d4dd4fc3a058ea9e4782e78bd4f": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 19
+   },
+   "b6c0b8f5b352931f9ffb099be071eb7921f73ac2331d64f64340a8029951ee9e": {
+    "p_truth": 0.4375,
+    "n": 16,
+    "wilson": [
+     0.2309836333518552,
+     0.6682180439322347
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.0,
+    "multiplicity": 19
+   },
+   "2ac7f5a67831f9dcb7129e2d377b2438e21c558b34091a929a1c4eaa6a2e1005": {
+    "p_truth": 0.375,
+    "n": 16,
+    "wilson": [
+     0.18480982554752806,
+     0.613593529020652
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.0,
+    "multiplicity": 19
+   },
+   "4e8802c19f55c46065e43094d68aad172d630a66e8c347deacce585b6ff81ed5": {
+    "p_truth": 0.5625,
+    "n": 16,
+    "wilson": [
+     0.33178195606776517,
+     0.7690163666481448
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.125,
+    "multiplicity": 19
+   }
+  },
+  "Ireland>Italy": {
+   "1b56586e180c9a1ac2af64e674ef10cd45d53fd1f1139022e6ec4ebd79a4d79e": {
+    "p_truth": 0.6875,
+    "n": 16,
+    "wilson": [
+     0.4440393186673406,
+     0.8583556494803894
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.625,
+    "multiplicity": 39
+   },
+   "25ba837838fc7ad2940507f42737c91523f0f4f8725f3ae281eadd26b760332d": {
+    "p_truth": 0.9375,
+    "n": 16,
+    "wilson": [
+     0.7167073163197013,
+     0.9888809426916687
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.875,
+    "multiplicity": 13
+   },
+   "a41b077c7d8926821023be9a7951ce49d30691af1d040df548fd8d3cf3f36616": {
+    "p_truth": 0.875,
+    "n": 16,
+    "wilson": [
+     0.6397666856325173,
+     0.9650232506629428
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.875,
+    "multiplicity": 13
+   },
+   "d718871c2670c547fb86718d40f0bf7745b82f19d6fe9362398fcc5f1a2a56f0": {
+    "p_truth": 0.9375,
+    "n": 16,
+    "wilson": [
+     0.7167073163197013,
+     0.9888809426916687
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.875,
+    "multiplicity": 13
+   },
+   "42241ce16ee0cf1249706721943fa634b4438409790f7aa2ee1b0c8fe1dde24c": {
+    "p_truth": 0.6875,
+    "n": 16,
+    "wilson": [
+     0.4440393186673406,
+     0.8583556494803894
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.375,
+    "multiplicity": 13
+   },
+   "709c0a0730eaef4f62bc4cb68ca965f18ebb18f44324c6a4045081685710f7d0": {
+    "p_truth": 0.875,
+    "n": 16,
+    "wilson": [
+     0.6397666856325173,
+     0.9650232506629428
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.875,
+    "multiplicity": 13
+   },
+   "22d5c5d85911a64d20f27d86bba025ce84a01abe79b04dbded0cd64c0f1e3b3a": {
+    "p_truth": 0.375,
+    "n": 16,
+    "wilson": [
+     0.18480982554752806,
+     0.613593529020652
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.0,
+    "multiplicity": 39
+   },
+   "7878a65850b5c108eba8ebfb4a6a65b3600624b435890da05be8e804af4a73af": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "07a7814b92ff6bb0a11c4c298af94bcf08c7e5dafa906868025e48366a425a08": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "ed27c05722a15384e3ab7f399e8b5a75c53a58086dd861a76695e92031e6182f": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "b972b94d172aa353585ac0ce6a95c7ea35c7ebc4e53d5cb386fc106d1ad262d5": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "dc3173b35d7003cd9b4a21759864a81252ca2f2d6cfea2119584d694df19836d": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "076da58558e6320578cfe5d733b873fd0574b26179da384e326455def9a00990": {
+    "p_truth": 0.9375,
+    "n": 16,
+    "wilson": [
+     0.7167073163197013,
+     0.9888809426916687
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.875,
+    "multiplicity": 39
+   }
+  },
+  "Italy>Ireland": {
+   "1b56586e180c9a1ac2af64e674ef10cd45d53fd1f1139022e6ec4ebd79a4d79e": {
+    "p_truth": 0.3125,
+    "n": 16,
+    "wilson": [
+     0.14164435051961052,
+     0.5559606813326594
+    ],
+    "p_order0": 0.375,
+    "p_order1": 0.25,
+    "multiplicity": 39
+   },
+   "25ba837838fc7ad2940507f42737c91523f0f4f8725f3ae281eadd26b760332d": {
+    "p_truth": 0.3125,
+    "n": 16,
+    "wilson": [
+     0.14164435051961052,
+     0.5559606813326594
+    ],
+    "p_order0": 0.5,
+    "p_order1": 0.125,
+    "multiplicity": 13
+   },
+   "a41b077c7d8926821023be9a7951ce49d30691af1d040df548fd8d3cf3f36616": {
+    "p_truth": 0.25,
+    "n": 16,
+    "wilson": [
+     0.10181901984237346,
+     0.49498768929398645
+    ],
+    "p_order0": 0.375,
+    "p_order1": 0.125,
+    "multiplicity": 13
+   },
+   "d718871c2670c547fb86718d40f0bf7745b82f19d6fe9362398fcc5f1a2a56f0": {
+    "p_truth": 0.125,
+    "n": 16,
+    "wilson": [
+     0.034976749337057134,
+     0.3602333143674828
+    ],
+    "p_order0": 0.25,
+    "p_order1": 0.0,
+    "multiplicity": 13
+   },
+   "42241ce16ee0cf1249706721943fa634b4438409790f7aa2ee1b0c8fe1dde24c": {
+    "p_truth": 0.3125,
+    "n": 16,
+    "wilson": [
+     0.14164435051961052,
+     0.5559606813326594
+    ],
+    "p_order0": 0.625,
+    "p_order1": 0.0,
+    "multiplicity": 13
+   },
+   "709c0a0730eaef4f62bc4cb68ca965f18ebb18f44324c6a4045081685710f7d0": {
+    "p_truth": 0.0,
+    "n": 16,
+    "wilson": [
+     0.0,
+     0.19361341827271994
+    ],
+    "p_order0": 0.0,
+    "p_order1": 0.0,
+    "multiplicity": 13
+   },
+   "22d5c5d85911a64d20f27d86bba025ce84a01abe79b04dbded0cd64c0f1e3b3a": {
+    "p_truth": 0.4375,
+    "n": 16,
+    "wilson": [
+     0.2309836333518552,
+     0.6682180439322347
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.0,
+    "multiplicity": 39
+   },
+   "6888c90cae662a557447539e63d2de4d771ead3577cc34ace6e9e2642b5543b5": {
+    "p_truth": 0.9375,
+    "n": 16,
+    "wilson": [
+     0.7167073163197013,
+     0.9888809426916687
+    ],
+    "p_order0": 0.875,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "34eaa804e27587d11b0e2c57d46f573980b2b0b6a54208367aa59457f2dc431b": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "69577407209ed30bbe2752bb82a2ad8bff968765858aac26424c1db34227c9da": {
+    "p_truth": 0.875,
+    "n": 16,
+    "wilson": [
+     0.6397666856325173,
+     0.9650232506629428
+    ],
+    "p_order0": 0.75,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "4eb2a77f37f6cc7ded739f4f4eabe59dd101700a964aa81d18324715e8d72725": {
+    "p_truth": 0.9375,
+    "n": 16,
+    "wilson": [
+     0.7167073163197013,
+     0.9888809426916687
+    ],
+    "p_order0": 0.875,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "db959a25a348549fabe80a9067b2fd165f91d92ea30ea2a0502b9fb891c61916": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 13
+   },
+   "235be666a6b3f21e750af911da29c491d7fde9f3f16d91784f6283d0e1cb81b9": {
+    "p_truth": 0.875,
+    "n": 16,
+    "wilson": [
+     0.6397666856325173,
+     0.9650232506629428
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.875,
+    "multiplicity": 39
+   }
+  },
+  "Netherlands>Luxembourg": {
+   "235be666a6b3f21e750af911da29c491d7fde9f3f16d91784f6283d0e1cb81b9": {
+    "p_truth": 0.625,
+    "n": 16,
+    "wilson": [
+     0.3864064709793481,
+     0.815190174452472
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.375,
+    "multiplicity": 38
+   },
+   "bae8d26017edb120d456f357a6f9638dc20144d056e2e3a443f2e7bfa95fe66f": {
+    "p_truth": 0.625,
+    "n": 16,
+    "wilson": [
+     0.3864064709793481,
+     0.815190174452472
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.5,
+    "multiplicity": 19
+   },
+   "fac4b400f346a877002fb072f9e941ef97c383280ff7263e8bcd20d1e3df9f23": {
+    "p_truth": 0.6875,
+    "n": 16,
+    "wilson": [
+     0.4440393186673406,
+     0.8583556494803894
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.375,
+    "multiplicity": 19
+   },
+   "90ea2f83e24887bbe82cd7ad0e12c44193340b780ae66ae443e53d7fba8be9d2": {
+    "p_truth": 0.6875,
+    "n": 16,
+    "wilson": [
+     0.4440393186673406,
+     0.8583556494803894
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.375,
+    "multiplicity": 19
+   },
+   "abcca11a787f6d507f8995d706d7b226a53f6994387c69bff83ba449e8243eba": {
+    "p_truth": 0.4375,
+    "n": 16,
+    "wilson": [
+     0.2309836333518552,
+     0.6682180439322347
+    ],
+    "p_order0": 0.625,
+    "p_order1": 0.25,
+    "multiplicity": 19
+   },
+   "22d5c5d85911a64d20f27d86bba025ce84a01abe79b04dbded0cd64c0f1e3b3a": {
+    "p_truth": 0.5,
+    "n": 16,
+    "wilson": [
+     0.2799923761135083,
+     0.7200076238864916
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.25,
+    "multiplicity": 19
+   },
+   "1d6909b14d33c94d263bbe54b9bfc5f306791d9ee331a6e156ab6ef06f335ea4": {
+    "p_truth": 0.5625,
+    "n": 16,
+    "wilson": [
+     0.33178195606776517,
+     0.7690163666481448
+    ],
+    "p_order0": 0.625,
+    "p_order1": 0.5,
+    "multiplicity": 19
+   },
+   "016eb856b72e234552c23100506ba2bbfbc6e39c671f3d2588b66c5a8c7bee39": {
+    "p_truth": 0.8125,
+    "n": 16,
+    "wilson": [
+     0.5699064013154177,
+     0.9340852122641324
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.75,
+    "multiplicity": 19
+   },
+   "4793549fed5ba3113a373532f6736634b4f4faf25fad143c5e100f31fe6c90c1": {
+    "p_truth": 0.75,
+    "n": 16,
+    "wilson": [
+     0.5050123107060135,
+     0.8981809801576265
+    ],
+    "p_order0": 0.5,
+    "p_order1": 1.0,
+    "multiplicity": 19
+   },
+   "f6ecb3a8b184aa88dc74f783573bdb0fcf7aa68226ab362f283d1924277909c9": {
+    "p_truth": 0.875,
+    "n": 16,
+    "wilson": [
+     0.6397666856325173,
+     0.9650232506629428
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.875,
+    "multiplicity": 19
+   },
+   "306e53d0cbeccfceeccb2dcd85f56568808d1dc6ed56c96381f9fe9d8ba4d9b1": {
+    "p_truth": 0.8125,
+    "n": 16,
+    "wilson": [
+     0.5699064013154177,
+     0.9340852122641324
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.75,
+    "multiplicity": 38
+   }
+  },
+  "Luxembourg>Netherlands": {
+   "235be666a6b3f21e750af911da29c491d7fde9f3f16d91784f6283d0e1cb81b9": {
+    "p_truth": 0.5,
+    "n": 16,
+    "wilson": [
+     0.2799923761135083,
+     0.7200076238864916
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.0,
+    "multiplicity": 38
+   },
+   "bae8d26017edb120d456f357a6f9638dc20144d056e2e3a443f2e7bfa95fe66f": {
+    "p_truth": 0.1875,
+    "n": 16,
+    "wilson": [
+     0.06591478773586765,
+     0.4300935986845823
+    ],
+    "p_order0": 0.25,
+    "p_order1": 0.125,
+    "multiplicity": 19
+   },
+   "fac4b400f346a877002fb072f9e941ef97c383280ff7263e8bcd20d1e3df9f23": {
+    "p_truth": 0.5,
+    "n": 16,
+    "wilson": [
+     0.2799923761135083,
+     0.7200076238864916
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.25,
+    "multiplicity": 19
+   },
+   "90ea2f83e24887bbe82cd7ad0e12c44193340b780ae66ae443e53d7fba8be9d2": {
+    "p_truth": 0.5625,
+    "n": 16,
+    "wilson": [
+     0.33178195606776517,
+     0.7690163666481448
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.25,
+    "multiplicity": 19
+   },
+   "abcca11a787f6d507f8995d706d7b226a53f6994387c69bff83ba449e8243eba": {
+    "p_truth": 0.375,
+    "n": 16,
+    "wilson": [
+     0.18480982554752806,
+     0.613593529020652
+    ],
+    "p_order0": 0.5,
+    "p_order1": 0.25,
+    "multiplicity": 19
+   },
+   "22d5c5d85911a64d20f27d86bba025ce84a01abe79b04dbded0cd64c0f1e3b3a": {
+    "p_truth": 0.5,
+    "n": 16,
+    "wilson": [
+     0.2799923761135083,
+     0.7200076238864916
+    ],
+    "p_order0": 0.875,
+    "p_order1": 0.125,
+    "multiplicity": 19
+   },
+   "46e2fc9f35989a2f161c28a8e01872fc93f536ce0504c7d64ff66fb9831de848": {
+    "p_truth": 0.75,
+    "n": 16,
+    "wilson": [
+     0.5050123107060135,
+     0.8981809801576265
+    ],
+    "p_order0": 0.75,
+    "p_order1": 0.75,
+    "multiplicity": 19
+   },
+   "df3080769f6dc8fa50c9cc4a4b8090bcd35962dc1a814f1dc427ed3ac0d9273b": {
+    "p_truth": 0.9375,
+    "n": 16,
+    "wilson": [
+     0.7167073163197013,
+     0.9888809426916687
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.875,
+    "multiplicity": 19
+   },
+   "23739d732c3851611e56342c27b119fa0323408229c1e773d71f0c9e7415eaf6": {
+    "p_truth": 0.875,
+    "n": 16,
+    "wilson": [
+     0.6397666856325173,
+     0.9650232506629428
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.75,
+    "multiplicity": 19
+   },
+   "5fe40b47cc63bf8d039c760967ea85025610f410f00bda6deb3feda2f1ec3728": {
+    "p_truth": 0.9375,
+    "n": 16,
+    "wilson": [
+     0.7167073163197013,
+     0.9888809426916687
+    ],
+    "p_order0": 1.0,
+    "p_order1": 0.875,
+    "multiplicity": 19
+   },
+   "e1d36c5ee70b508a8d6e00e98eb7714ef3b7809dd12a435658b1286d2f620f1c": {
+    "p_truth": 1.0,
+    "n": 16,
+    "wilson": [
+     0.8063865817272802,
+     1.0
+    ],
+    "p_order0": 1.0,
+    "p_order1": 1.0,
+    "multiplicity": 38
+   }
+  }
+ }
+}

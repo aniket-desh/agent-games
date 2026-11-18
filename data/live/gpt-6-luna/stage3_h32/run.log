@@ -1,0 +1,53 @@
+estimate (projection, pre-sharing): {'projection': True, 'blocks': 32, 'branches': 96, 'calls_upper': 321024, 'tokens_per_call': {'input': 331.8699191034726, 'output': 33.2985395034481}, 'usd_upper': 16.0, 'minutes_at_rate_limit': 10.7}; session spend so far $47.10, this run may spend $35.00
+[    606s] block 1 s3:France>Peru|clamped_rare|N16|b000 fresh=8539 shared=239 resumed=0 spend=$13.846
+[    612s] block 2 s3:Italy>Ireland|clamped_rare|N16|b010 fresh=8501 shared=211 resumed=0 spend=$13.975
+[    614s] block 3 s3:Luxembourg>Netherlands|clamped_rare|N16|b015 fresh=8552 shared=205 resumed=0 spend=$14.008
+[    615s] block 4 s3:Italy>Ireland|clamped_rare|N16|b011 fresh=8688 shared=177 resumed=0 spend=$14.027
+[    620s] block 5 s3:Netherlands>Luxembourg|clamped_rare|N16|b012 fresh=8443 shared=245 resumed=0 spend=$14.098
+[    631s] block 6 s3:Ireland>Italy|clamped_rare|N16|b008 fresh=8620 shared=188 resumed=0 spend=$14.248
+[    635s] block 7 s3:Peru>France|clamped_rare|N16|b003 fresh=8588 shared=199 resumed=0 spend=$14.321
+[    635s] block 8 s3:Ireland>Italy|clamped_rare|N16|b009 fresh=8599 shared=233 resumed=0 spend=$14.327
+[    643s] block 9 s3:Netherlands>Luxembourg|clamped_rare|N16|b013 fresh=8691 shared=156 resumed=0 spend=$14.426
+[    645s] block 10 s3:Austria>Yemen|clamped_rare|N16|b007 fresh=8481 shared=262 resumed=5 spend=$14.451
+[    646s] block 11 s3:Yemen>Austria|clamped_rare|N16|b005 fresh=8488 shared=218 resumed=3 spend=$14.458
+[    646s] block 12 s3:Austria>Yemen|clamped_rare|N16|b006 fresh=8638 shared=179 resumed=0 spend=$14.462
+[    646s] block 13 s3:Yemen>Austria|clamped_rare|N16|b004 fresh=8567 shared=205 resumed=0 spend=$14.465
+[    650s] block 14 s3:Peru>France|clamped_rare|N16|b002 fresh=8572 shared=191 resumed=0 spend=$14.508
+[    651s] block 15 s3:Luxembourg>Netherlands|clamped_rare|N16|b014 fresh=8640 shared=174 resumed=0 spend=$14.515
+[    675s] block 16 s3:France>Peru|clamped_rare|N16|b001 fresh=8582 shared=244 resumed=0 spend=$14.896
+[   1196s] block 17 s3:France>Peru|clamped_rare|N16|b016 fresh=8509 shared=187 resumed=1 spend=$27.182
+[   1239s] block 18 s3:Yemen>Austria|clamped_rare|N16|b021 fresh=8422 shared=230 resumed=0 spend=$28.099
+[   1259s] block 19 s3:Netherlands>Luxembourg|clamped_rare|N16|b029 fresh=8560 shared=206 resumed=0 spend=$28.488
+[   1262s] block 20 s3:Peru>France|clamped_rare|N16|b019 fresh=8617 shared=185 resumed=0 spend=$28.524
+[   1267s] block 21 s3:Italy>Ireland|clamped_rare|N16|b027 fresh=8533 shared=236 resumed=0 spend=$28.593
+[   1270s] block 22 s3:Italy>Ireland|clamped_rare|N16|b026 fresh=8542 shared=236 resumed=0 spend=$28.631
+[   1270s] block 23 s3:Ireland>Italy|clamped_rare|N16|b024 fresh=8545 shared=200 resumed=0 spend=$28.633
+[   1280s] block 24 s3:Luxembourg>Netherlands|clamped_rare|N16|b030 fresh=8604 shared=219 resumed=0 spend=$28.714
+[   1286s] block 25 s3:Austria>Yemen|clamped_rare|N16|b022 fresh=8659 shared=215 resumed=0 spend=$28.760
+[   1295s] block 26 s3:Ireland>Italy|clamped_rare|N16|b025 fresh=8591 shared=208 resumed=0 spend=$28.809
+[   1299s] block 27 s3:Luxembourg>Netherlands|clamped_rare|N16|b031 fresh=8464 shared=206 resumed=0 spend=$28.821
+[   1302s] block 28 s3:Peru>France|clamped_rare|N16|b018 fresh=8507 shared=274 resumed=0 spend=$28.828
+[   1306s] block 29 s3:Netherlands>Luxembourg|clamped_rare|N16|b028 fresh=8627 shared=205 resumed=0 spend=$28.840
+[   1325s] block 30 s3:Austria>Yemen|clamped_rare|N16|b023 fresh=8489 shared=229 resumed=0 spend=$28.885
+[   1337s] block 31 s3:Yemen>Austria|clamped_rare|N16|b020 fresh=8603 shared=181 resumed=12 spend=$28.896
+[   1431s] block 32 s3:France>Peru|clamped_rare|N16|b017 fresh=8595 shared=228 resumed=0 spend=$28.942
+{
+ "blocks_done": 32,
+ "branches_written": 96,
+ "branches_skipped": 0,
+ "fresh_calls": 274056,
+ "shared": 6771,
+ "resumed": 21,
+ "elapsed_s": 1431.2,
+ "budget_stopped": false,
+ "spend": {
+  "model": "gpt-6-luna",
+  "calls": 273973,
+  "usd": 28.9418,
+  "input_tokens": 238514400,
+  "output_tokens": 10180748,
+  "cached_tokens": 9081790
+ },
+ "failed_attempts": 0
+}
+EXIT 0

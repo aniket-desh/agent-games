@@ -1,0 +1,27 @@
+[project]
+name = "flagswarm"
+version = "0.1.0"
+description = "Who changes the swarm's answer? Single-speaker ablations in a vision-language Flag Game swarm."
+requires-python = ">=3.11"
+dependencies = [
+  "flag-game",
+  "numpy>=1.26",
+  "pandas>=2.0",
+  "pillow>=10.0",
+  "matplotlib>=3.8",
+  "openai>=1.80",
+  "scipy>=1.11",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[tool.uv.sources]
+flag-game = { path = "vendor/flag_game", editable = true }
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["flagswarm*"]

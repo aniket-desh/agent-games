@@ -1,0 +1,127 @@
+{
+ "cap_usd": 150.0,
+ "runs": [
+  {
+   "run": "preflight:gpt-6-luna",
+   "time": "2026-11-18T02:35:51",
+   "model": "gpt-6-luna",
+   "calls": 36,
+   "usd": 0.0017,
+   "input_tokens": 11112,
+   "output_tokens": 1255,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "calibration:gpt-6-luna",
+   "time": "2026-11-18T02:39:19",
+   "model": "gpt-6-luna",
+   "calls": 5128,
+   "usd": 0.2323,
+   "input_tokens": 1404424,
+   "output_tokens": 183664,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "crop_only:gpt-6-luna",
+   "time": "2026-11-18T02:42:31",
+   "model": "gpt-6-luna",
+   "calls": 1504,
+   "usd": 0.0565,
+   "input_tokens": 297536,
+   "output_tokens": 53572,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "qcal_games:gpt-6-luna",
+   "time": "2026-11-18T02:45:14",
+   "model": "gpt-6-luna",
+   "calls": 1468,
+   "usd": 0.0663,
+   "input_tokens": 422887,
+   "output_tokens": 48077,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "qcal_probes:gpt-6-luna",
+   "time": "2026-11-18T02:46:45",
+   "model": "gpt-6-luna",
+   "calls": 7680,
+   "usd": 0.2342,
+   "input_tokens": 1814464,
+   "output_tokens": 105413,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "stage1:gpt-6-luna",
+   "time": "2026-11-18T03:05:12",
+   "model": "gpt-6-luna",
+   "calls": 260911,
+   "usd": 12.2762,
+   "input_tokens": 81470861,
+   "output_tokens": 8258174,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "stage4:gpt-6-luna",
+   "time": "2026-11-18T03:12:48",
+   "model": "gpt-6-luna",
+   "calls": 38936,
+   "usd": 1.4572,
+   "input_tokens": 9955231,
+   "output_tokens": 923302,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "stage3:gpt-6-luna (OOM-killed run; spend reconstructed from call logs)",
+   "time": "2026-11-18T04:27:28",
+   "model": "gpt-6-luna",
+   "calls": 325081,
+   "usd": 18.0559,
+   "input_tokens": 120787834,
+   "output_tokens": 11954300,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "stage2:gpt-6-luna",
+   "time": "2026-11-18T04:27:52",
+   "model": "gpt-6-luna",
+   "calls": 262094,
+   "usd": 12.3489,
+   "input_tokens": 81531003,
+   "output_tokens": 8391521,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "stage3:gpt-6-luna",
+   "time": "2026-11-18T04:31:15",
+   "model": "gpt-6-luna",
+   "calls": 42330,
+   "usd": 2.374,
+   "input_tokens": 15974157,
+   "output_tokens": 1553103,
+   "cached_tokens": 0,
+   "note": ""
+  },
+  {
+   "run": "stage3_h32:gpt-6-luna",
+   "time": "2026-11-18T13:08:00",
+   "model": "gpt-6-luna",
+   "calls": 273973,
+   "usd": 28.9418,
+   "input_tokens": 238514400,
+   "output_tokens": 10180748,
+   "cached_tokens": 9081790,
+   "note": ""
+  }
+ ],
+ "total_usd": 76.045
+}

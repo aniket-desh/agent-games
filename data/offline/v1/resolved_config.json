@@ -1,0 +1,24 @@
+{
+ "stage": "offline",
+ "name": "v1",
+ "summary": {
+  "source": "offline",
+  "max_abs_z_mc_vs_theory": 2.576315927333014,
+  "frac_abs_z_gt_3": 0.0,
+  "n_points": 252,
+  "elapsed_s": 3.8
+ },
+ "source_snapshot": {
+  "flagswarm_source_sha256": "656da0aea674d6437e24e39dfe88f5ba3e8fa68d61ac900223b0b01aa4110123",
+  "files": [
+   "__init__.py",
+   "calibrate.py",
+   "env.py",
+   "figstyle.py",
+   "game.py",
+   "llm.py",
+   "offline.py",
+   "theory.py"
+  ]
+ }
+}

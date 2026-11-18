@@ -1,0 +1,28 @@
+{
+ "manifest": "/workspace/agents/data/live/gpt-6-luna/qcal_games/manifest.json",
+ "source": "live",
+ "backend": "live",
+ "model": "gpt-6-luna",
+ "max_usd": 1.0,
+ "concurrency": 256,
+ "block_concurrency": 16,
+ "scripted": null,
+ "started": "2026-11-18T02:44:47",
+ "source_snapshot": {
+  "flagswarm_source_sha256": "b62f19f17c3bcdc33e06ea00088ff49e35862d30603abf2257b01f83fc89188e",
+  "files": [
+   "__init__.py",
+   "calibrate.py",
+   "env.py",
+   "figstyle.py",
+   "game.py",
+   "llm.py",
+   "manifest.py",
+   "offline.py",
+   "qcal.py",
+   "runner.py",
+   "theory.py"
+  ]
+ },
+ "causal_convention": "Interventions act on delivery only: a dropped report appends nothing, evicts nothing, gives no sign of silence and consumes its slot; the muted agent still listens and answers readouts. Loss D = E[Y(baseline) - Y(intervention)] in truth share at the readout; positive = the speaker helped."
+}

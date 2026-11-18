@@ -1,0 +1,149 @@
+estimate (projection, pre-sharing): {'projection': True, 'blocks': 128, 'branches': 576, 'calls_upper': 59904, 'tokens_per_call': {'input': 308.6876599066218, 'output': 31.25914268368483}, 'usd_upper': 2.79, 'minutes_at_rate_limit': 2.0}; session spend so far $12.87, this run may spend $5.00
+[     74s] block 1 m1:Yemen>Austria|natural|N8|b021 fresh=298 shared=118 resumed=0 spend=$0.494
+[     77s] block 2 m3:Yemen>Austria|natural|N8|b021 fresh=272 shared=248 resumed=0 spend=$0.525
+[     84s] block 3 m1:Luxembourg>Netherlands|natural|N8|b014 fresh=349 shared=67 resumed=0 spend=$0.586
+[     85s] block 4 m1:Netherlands>Luxembourg|natural|N8|b013 fresh=317 shared=99 resumed=0 spend=$0.588
+[     85s] block 5 m1:Yemen>Austria|natural|N8|b004 fresh=341 shared=75 resumed=0 spend=$0.589
+[     85s] block 6 m1:Ireland>Italy|natural|N8|b008 fresh=248 shared=168 resumed=0 spend=$0.592
+[     85s] block 7 m1:Peru>France|natural|N8|b003 fresh=334 shared=82 resumed=0 spend=$0.592
+[     85s] block 8 m1:France>Peru|natural|N8|b017 fresh=292 shared=112 resumed=12 spend=$0.593
+[     85s] block 9 m1:Austria>Yemen|natural|N8|b022 fresh=331 shared=85 resumed=0 spend=$0.594
+[     85s] block 10 m1:Yemen>Austria|natural|N8|b020 fresh=318 shared=98 resumed=0 spend=$0.594
+[     87s] block 11 m3:Austria>Yemen|natural|N8|b022 fresh=410 shared=110 resumed=0 spend=$0.607
+[     88s] block 12 m1:Yemen>Austria|natural|N8|b005 fresh=282 shared=134 resumed=0 spend=$0.610
+[     88s] block 13 m3:France>Peru|natural|N8|b017 fresh=398 shared=122 resumed=0 spend=$0.611
+[     88s] block 14 m1:France>Peru|natural|N8|b000 fresh=325 shared=91 resumed=0 spend=$0.614
+[     88s] block 15 m3:Luxembourg>Netherlands|natural|N8|b014 fresh=422 shared=98 resumed=0 spend=$0.614
+[     88s] block 16 m1:Austria>Yemen|natural|N8|b023 fresh=314 shared=102 resumed=0 spend=$0.615
+[     89s] block 17 m1:Italy>Ireland|natural|N8|b010 fresh=292 shared=124 resumed=0 spend=$0.616
+[     89s] block 18 m1:Austria>Yemen|natural|N8|b007 fresh=298 shared=118 resumed=0 spend=$0.617
+[     89s] block 19 m1:Peru>France|natural|N8|b019 fresh=275 shared=140 resumed=1 spend=$0.620
+[     89s] block 20 m1:Peru>France|natural|N8|b002 fresh=319 shared=97 resumed=0 spend=$0.620
+[     90s] block 21 m3:Peru>France|natural|N8|b003 fresh=421 shared=99 resumed=0 spend=$0.624
+[     90s] block 22 m3:Netherlands>Luxembourg|natural|N8|b013 fresh=369 shared=151 resumed=0 spend=$0.625
+[     90s] block 23 m3:Ireland>Italy|natural|N8|b008 fresh=349 shared=171 resumed=0 spend=$0.627
+[     90s] block 24 m3:France>Peru|natural|N8|b016 fresh=335 shared=185 resumed=0 spend=$0.629
+[     91s] block 25 m3:Italy>Ireland|natural|N8|b010 fresh=382 shared=138 resumed=0 spend=$0.630
+[     91s] block 26 m3:Italy>Ireland|natural|N8|b011 fresh=396 shared=124 resumed=0 spend=$0.632
+[     91s] block 27 m3:Peru>France|natural|N8|b002 fresh=406 shared=114 resumed=0 spend=$0.632
+[     91s] block 28 m1:France>Peru|natural|N8|b016 fresh=239 shared=177 resumed=0 spend=$0.633
+[     93s] block 29 m1:Italy>Ireland|natural|N8|b011 fresh=327 shared=89 resumed=0 spend=$0.645
+[     93s] block 30 m3:Yemen>Austria|natural|N8|b020 fresh=374 shared=146 resumed=0 spend=$0.645
+[     93s] block 31 m3:Peru>France|natural|N8|b019 fresh=418 shared=102 resumed=0 spend=$0.646
+[     93s] block 32 m3:Austria>Yemen|natural|N8|b023 fresh=414 shared=106 resumed=0 spend=$0.648
+[     93s] block 33 m3:France>Peru|natural|N8|b000 fresh=442 shared=78 resumed=0 spend=$0.649
+[     93s] block 34 m3:Yemen>Austria|natural|N8|b005 fresh=313 shared=207 resumed=0 spend=$0.649
+[     94s] block 35 m1:France>Peru|natural|N8|b001 fresh=261 shared=155 resumed=0 spend=$0.653
+[     94s] block 36 m1:Austria>Yemen|natural|N8|b006 fresh=346 shared=70 resumed=0 spend=$0.653
+[     95s] block 37 m3:Austria>Yemen|natural|N8|b006 fresh=407 shared=113 resumed=0 spend=$0.662
+[     95s] block 38 m1:Ireland>Italy|natural|N8|b009 fresh=288 shared=128 resumed=0 spend=$0.662
+[     96s] block 39 m3:Austria>Yemen|natural|N8|b007 fresh=361 shared=159 resumed=0 spend=$0.663
+[     96s] block 40 m1:Luxembourg>Netherlands|natural|N8|b015 fresh=294 shared=122 resumed=0 spend=$0.663
+[     96s] block 41 m3:Yemen>Austria|natural|N8|b004 fresh=404 shared=116 resumed=0 spend=$0.664
+[     98s] block 42 m1:Peru>France|natural|N8|b018 fresh=324 shared=92 resumed=0 spend=$0.681
+[     98s] block 43 m3:France>Peru|natural|N8|b001 fresh=406 shared=114 resumed=0 spend=$0.683
+[    101s] block 44 m3:Ireland>Italy|natural|N8|b009 fresh=417 shared=103 resumed=0 spend=$0.701
+[    101s] block 45 m3:Peru>France|natural|N8|b018 fresh=429 shared=91 resumed=0 spend=$0.705
+[    104s] block 46 m1:Netherlands>Luxembourg|natural|N8|b012 fresh=348 shared=68 resumed=0 spend=$0.722
+[    106s] block 47 m3:Luxembourg>Netherlands|natural|N8|b015 fresh=374 shared=146 resumed=0 spend=$0.740
+[    110s] block 48 m3:Netherlands>Luxembourg|natural|N8|b012 fresh=431 shared=89 resumed=0 spend=$0.764
+[    140s] block 49 m1:Austria>Yemen|clamped_rare|N8|b007 fresh=239 shared=57 resumed=0 spend=$0.993
+[    142s] block 50 m1:France>Peru|clamped_rare|N8|b001 fresh=209 shared=115 resumed=0 spend=$1.009
+[    143s] block 51 m3:Austria>Yemen|clamped_rare|N8|b007 fresh=301 shared=69 resumed=0 spend=$1.013
+[    146s] block 52 m1:Ireland>Italy|natural|N8|b024 fresh=279 shared=137 resumed=0 spend=$1.036
+[    147s] block 53 m1:Ireland>Italy|clamped_rare|N8|b009 fresh=234 shared=62 resumed=0 spend=$1.038
+[    147s] block 54 m1:Ireland>Italy|natural|N8|b025 fresh=271 shared=145 resumed=0 spend=$1.044
+[    150s] block 55 m3:France>Peru|clamped_rare|N8|b001 fresh=250 shared=155 resumed=0 spend=$1.062
+[    151s] block 56 m1:Yemen>Austria|clamped_rare|N8|b004 fresh=222 shared=90 resumed=0 spend=$1.073
+[    152s] block 57 m3:Ireland>Italy|clamped_rare|N8|b009 fresh=273 shared=97 resumed=0 spend=$1.083
+[    153s] block 58 m3:Ireland>Italy|natural|N8|b025 fresh=419 shared=101 resumed=0 spend=$1.085
+[    153s] block 59 m1:Peru>France|clamped_rare|N8|b002 fresh=252 shared=56 resumed=0 spend=$1.086
+[    153s] block 60 m1:Italy>Ireland|natural|N8|b027 fresh=291 shared=125 resumed=0 spend=$1.090
+[    155s] block 61 m3:Yemen>Austria|clamped_rare|N8|b004 fresh=264 shared=126 resumed=0 spend=$1.101
+[    156s] block 62 m1:Yemen>Austria|clamped_rare|N8|b005 fresh=239 shared=69 resumed=0 spend=$1.108
+[    156s] block 63 m1:Italy>Ireland|clamped_rare|N8|b010 fresh=240 shared=64 resumed=0 spend=$1.112
+[    157s] block 64 m3:Peru>France|clamped_rare|N8|b002 fresh=295 shared=90 resumed=0 spend=$1.119
+[    159s] block 65 m3:Italy>Ireland|natural|N8|b027 fresh=364 shared=156 resumed=0 spend=$1.130
+[    159s] block 66 m1:Netherlands>Luxembourg|clamped_rare|N8|b012 fresh=244 shared=44 resumed=0 spend=$1.135
+[    161s] block 67 m3:Netherlands>Luxembourg|clamped_rare|N8|b013 fresh=304 shared=101 resumed=0 spend=$1.149
+[    162s] block 68 m3:Ireland>Italy|natural|N8|b024 fresh=427 shared=93 resumed=0 spend=$1.152
+[    162s] block 69 m1:Peru>France|clamped_rare|N8|b003 fresh=251 shared=65 resumed=0 spend=$1.152
+[    162s] block 70 m3:Yemen>Austria|clamped_rare|N8|b005 fresh=272 shared=113 resumed=0 spend=$1.152
+[    162s] block 71 m1:Netherlands>Luxembourg|clamped_rare|N8|b013 fresh=241 shared=83 resumed=0 spend=$1.154
+[    162s] block 72 m1:Ireland>Italy|clamped_rare|N8|b008 fresh=236 shared=88 resumed=0 spend=$1.154
+[    162s] block 73 m1:Italy>Ireland|clamped_rare|N8|b011 fresh=233 shared=87 resumed=0 spend=$1.154
+[    162s] block 74 m3:Ireland>Italy|clamped_rare|N8|b008 fresh=309 shared=96 resumed=0 spend=$1.156
+[    163s] block 75 m1:Italy>Ireland|natural|N8|b026 fresh=305 shared=111 resumed=0 spend=$1.159
+[    164s] block 76 m3:Netherlands>Luxembourg|clamped_rare|N8|b012 fresh=278 shared=82 resumed=0 spend=$1.168
+[    164s] block 77 m3:France>Peru|clamped_rare|N8|b000 fresh=291 shared=119 resumed=0 spend=$1.168
+[    164s] block 78 m3:Italy>Ireland|clamped_rare|N8|b010 fresh=296 shared=84 resumed=0 spend=$1.168
+[    164s] block 79 m1:France>Peru|clamped_rare|N8|b000 fresh=226 shared=102 resumed=0 spend=$1.168
+[    164s] block 80 m3:Luxembourg>Netherlands|clamped_rare|N8|b014 fresh=243 shared=142 resumed=0 spend=$1.168
+[    165s] block 81 m1:Luxembourg>Netherlands|natural|N8|b031 fresh=312 shared=104 resumed=0 spend=$1.170
+[    165s] block 82 m1:Netherlands>Luxembourg|natural|N8|b029 fresh=339 shared=77 resumed=0 spend=$1.174
+[    165s] block 83 m3:Peru>France|clamped_rare|N8|b003 fresh=306 shared=89 resumed=0 spend=$1.175
+[    167s] block 84 m1:Luxembourg>Netherlands|clamped_rare|N8|b015 fresh=233 shared=55 resumed=0 spend=$1.187
+[    167s] block 85 m1:Luxembourg>Netherlands|clamped_rare|N8|b014 fresh=241 shared=67 resumed=0 spend=$1.189
+[    168s] block 86 m3:Luxembourg>Netherlands|clamped_rare|N8|b015 fresh=272 shared=88 resumed=0 spend=$1.192
+[    170s] block 87 m1:Austria>Yemen|clamped_rare|N8|b006 fresh=250 shared=50 resumed=0 spend=$1.207
+[    170s] block 88 m3:Netherlands>Luxembourg|natural|N8|b029 fresh=436 shared=84 resumed=0 spend=$1.207
+[    170s] block 89 m1:Netherlands>Luxembourg|natural|N8|b028 fresh=284 shared=132 resumed=0 spend=$1.210
+[    170s] block 90 m3:Luxembourg>Netherlands|natural|N8|b031 fresh=404 shared=116 resumed=0 spend=$1.211
+[    171s] block 91 m3:Italy>Ireland|natural|N8|b026 fresh=343 shared=177 resumed=0 spend=$1.217
+[    171s] block 92 m3:Italy>Ireland|clamped_rare|N8|b011 fresh=287 shared=113 resumed=0 spend=$1.218
+[    173s] block 93 m3:Austria>Yemen|clamped_rare|N8|b006 fresh=304 shared=71 resumed=0 spend=$1.230
+[    175s] block 94 m3:Luxembourg>Netherlands|natural|N8|b030 fresh=393 shared=127 resumed=0 spend=$1.251
+[    176s] block 95 m1:Luxembourg>Netherlands|natural|N8|b030 fresh=302 shared=112 resumed=2 spend=$1.255
+[    177s] block 96 m3:Netherlands>Luxembourg|natural|N8|b028 fresh=344 shared=176 resumed=0 spend=$1.263
+[    187s] block 97 m1:Peru>France|clamped_rare|N8|b019 fresh=224 shared=68 resumed=0 spend=$1.344
+[    188s] block 98 m3:France>Peru|clamped_rare|N8|b017 fresh=285 shared=65 resumed=0 spend=$1.352
+[    190s] block 99 m3:Peru>France|clamped_rare|N8|b019 fresh=264 shared=101 resumed=0 spend=$1.373
+[    191s] block 100 m1:France>Peru|clamped_rare|N8|b016 fresh=261 shared=75 resumed=0 spend=$1.378
+[    193s] block 101 m1:Austria>Yemen|clamped_rare|N8|b022 fresh=232 shared=92 resumed=0 spend=$1.398
+[    193s] block 102 m1:Austria>Yemen|clamped_rare|N8|b023 fresh=222 shared=98 resumed=0 spend=$1.400
+[    193s] block 103 m1:France>Peru|clamped_rare|N8|b017 fresh=245 shared=35 resumed=0 spend=$1.401
+[    194s] block 104 m1:Yemen>Austria|clamped_rare|N8|b021 fresh=253 shared=79 resumed=0 spend=$1.413
+[    195s] block 105 m3:France>Peru|clamped_rare|N8|b016 fresh=279 shared=141 resumed=0 spend=$1.416
+[    195s] block 106 m3:Austria>Yemen|clamped_rare|N8|b022 fresh=310 shared=95 resumed=0 spend=$1.421
+[    196s] block 107 m3:Yemen>Austria|clamped_rare|N8|b021 fresh=280 shared=135 resumed=0 spend=$1.430
+[    197s] block 108 m1:Netherlands>Luxembourg|clamped_rare|N8|b028 fresh=208 shared=100 resumed=0 spend=$1.433
+[    197s] block 109 m1:Peru>France|clamped_rare|N8|b018 fresh=278 shared=58 resumed=4 spend=$1.434
+[    197s] block 110 m3:Austria>Yemen|clamped_rare|N8|b023 fresh=276 shared=124 resumed=0 spend=$1.437
+[    197s] block 111 m1:Yemen>Austria|clamped_rare|N8|b020 fresh=230 shared=66 resumed=0 spend=$1.437
+[    198s] block 112 m1:Italy>Ireland|clamped_rare|N8|b027 fresh=221 shared=107 resumed=0 spend=$1.440
+[    198s] block 113 m3:Yemen>Austria|clamped_rare|N8|b020 fresh=272 shared=98 resumed=0 spend=$1.445
+[    199s] block 114 m1:Luxembourg>Netherlands|clamped_rare|N8|b031 fresh=260 shared=67 resumed=1 spend=$1.448
+[    200s] block 115 m3:Netherlands>Luxembourg|clamped_rare|N8|b028 fresh=313 shared=72 resumed=0 spend=$1.451
+[    200s] block 116 m1:Ireland>Italy|clamped_rare|N8|b024 fresh=249 shared=47 resumed=0 spend=$1.451
+[    200s] block 117 m3:Italy>Ireland|clamped_rare|N8|b026 fresh=277 shared=113 resumed=0 spend=$1.451
+[    200s] block 118 m1:Italy>Ireland|clamped_rare|N8|b026 fresh=228 shared=84 resumed=0 spend=$1.453
+[    200s] block 119 m3:Peru>France|clamped_rare|N8|b018 fresh=315 shared=110 resumed=0 spend=$1.453
+[    200s] block 120 m3:Luxembourg>Netherlands|clamped_rare|N8|b030 fresh=252 shared=178 resumed=0 spend=$1.453
+[    201s] block 121 m1:Ireland>Italy|clamped_rare|N8|b025 fresh=232 shared=76 resumed=0 spend=$1.455
+[    201s] block 122 m3:Luxembourg>Netherlands|clamped_rare|N8|b031 fresh=285 shared=125 resumed=0 spend=$1.455
+[    202s] block 123 m3:Italy>Ireland|clamped_rare|N8|b027 fresh=304 shared=106 resumed=0 spend=$1.455
+[    202s] block 124 m3:Netherlands>Luxembourg|clamped_rare|N8|b029 fresh=287 shared=93 resumed=0 spend=$1.455
+[    202s] block 125 m1:Luxembourg>Netherlands|clamped_rare|N8|b030 fresh=244 shared=97 resumed=3 spend=$1.456
+[    202s] block 126 m3:Ireland>Italy|clamped_rare|N8|b024 fresh=313 shared=57 resumed=0 spend=$1.456
+[    205s] block 127 m3:Ireland>Italy|clamped_rare|N8|b025 fresh=258 shared=127 resumed=0 spend=$1.457
+[    207s] block 128 m1:Netherlands>Luxembourg|clamped_rare|N8|b029 fresh=228 shared=60 resumed=16 spend=$1.457
+{
+ "blocks_done": 128,
+ "branches_written": 576,
+ "branches_skipped": 0,
+ "fresh_calls": 38943,
+ "shared": 13452,
+ "resumed": 39,
+ "elapsed_s": 206.7,
+ "budget_stopped": false,
+ "spend": {
+  "model": "gpt-6-luna",
+  "calls": 38936,
+  "usd": 1.4572,
+  "input_tokens": 9955231,
+  "output_tokens": 923302,
+  "cached_tokens": 0
+ },
+ "failed_attempts": 0
+}
+exit 0

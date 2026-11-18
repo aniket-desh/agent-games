@@ -1,0 +1,28 @@
+{
+ "manifest": "data/live/gpt-6-luna/stage1/manifest.json",
+ "source": "live",
+ "backend": "live",
+ "model": "gpt-6-luna",
+ "max_usd": 30.0,
+ "concurrency": 384,
+ "block_concurrency": 48,
+ "scripted": null,
+ "started": "2026-11-18T02:47:19",
+ "source_snapshot": {
+  "flagswarm_source_sha256": "b62f19f17c3bcdc33e06ea00088ff49e35862d30603abf2257b01f83fc89188e",
+  "files": [
+   "__init__.py",
+   "calibrate.py",
+   "env.py",
+   "figstyle.py",
+   "game.py",
+   "llm.py",
+   "manifest.py",
+   "offline.py",
+   "qcal.py",
+   "runner.py",
+   "theory.py"
+  ]
+ },
+ "causal_convention": "Interventions act on delivery only: a dropped report appends nothing, evicts nothing, gives no sign of silence and consumes its slot; the muted agent still listens and answers readouts. Loss D = E[Y(baseline) - Y(intervention)] in truth share at the readout; positive = the speaker helped."
+}

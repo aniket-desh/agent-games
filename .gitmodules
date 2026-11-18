@@ -1,0 +1,6 @@
+[submodule "vendor/flag_game"]
+	path = vendor/flag_game
+	url = https://github.com/lizardp1/flag_game.git
+[submodule "vendor/figures4papers"]
+	path = vendor/figures4papers
+	url = https://github.com/ChenLiu-1996/figures4papers.git

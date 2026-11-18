@@ -1,0 +1,12 @@
+{
+ "blocks_done": 160,
+ "branches_written": 2808,
+ "branches_skipped": 0,
+ "fresh_calls": 169622,
+ "shared": 0,
+ "resumed": 267409,
+ "elapsed_s": 57.0,
+ "budget_stopped": false,
+ "spend": null,
+ "failed_attempts": 0
+}
